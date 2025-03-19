@@ -4,4 +4,4 @@
 
 **IP & Domain reputation services**
 
-stir@sugarpot.ovh
+github@sugarpot.ovh
